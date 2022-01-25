@@ -1,2 +1,2 @@
 # Pacman
- pacmen game with java
+ pacman game with java
